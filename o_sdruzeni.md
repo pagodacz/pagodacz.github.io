@@ -35,6 +35,9 @@ Občanské sdružení Pagoda, o.s. je nezisková organizace zaměřená na podpo
 | Jan | Hora | &nbsp; hezi@seznam.cz | 
 | Simon | Zeckarias | &nbsp; simon.z@centrum.cz | 
 | Marie | Šimková | &nbsp; smarie@centrum.cz |
+| Michal | Timko | &nbsp; timko.michal@centrum.cz |
+| Jan | Vráblík | &nbsp; j.vrablik@seznam.cz |
+| Jaroslav | Kotowski | &nbsp; jaroslav.kotowski@gmail.com |
 | Josef | Moudřík | &nbsp; j.moudrik@gmail.com |
 
 
