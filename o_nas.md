@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O sdružení
-permalink: /o_sdruzeni/
+permalink: /o_nas/
 ---
 
 **Sdružení přijímá nové členy!**
