@@ -27,17 +27,16 @@ Občanské sdružení Pagoda, o.s. je nezisková organizace zaměřená na podpo
 
 | Jméno | Příjmení |   Email   |
 | ---: | :--- | :--------: | ---:
-| Aleš | Cieply | &nbsp; cieply@ujf.cas.cz |
-| Vladimír | Daněk | &nbsp; vladimir.danek@treygo.cz | 
-| Petr | Souček | &nbsp; balamut@balamut.cz | 
-| Vláďa | Bínovec | &nbsp; vbinovec@gmail.com | 
-| Jitka | Bártová | &nbsp; JitkaBartova@seznam.cz | 
-| Jan | Hora | &nbsp; hezi@seznam.cz | 
-| Simon | Zeckarias | &nbsp; simon.z@centrum.cz | 
-| Marie | Šimková | &nbsp; smarie@centrum.cz |
-| Michal | Timko | &nbsp; timko.michal@centrum.cz |
-| Jan | Vráblík | &nbsp; j.vrablik@seznam.cz |
-| Jaroslav | Kotowski | &nbsp; jaroslav.kotowski@gmail.com |
-| Josef | Moudřík | &nbsp; j.moudrik@gmail.com |
+| Aleš | Cieply | &nbsp; cieply -ZAVINÁČ- ujf.cas.cz |
+| Vladimír | Daněk | &nbsp; vladimir.danek -ZAVINÁČ- treygo.cz | 
+| Petr | Souček | &nbsp; balamut -ZAVINÁČ- balamut.cz | 
+| Vláďa | Bínovec | &nbsp; vbinovec -ZAVINÁČ- gmail.com | 
+| Jitka | Bártová | &nbsp; JitkaBartova -ZAVINÁČ- seznam.cz | 
+| Jan | Hora | &nbsp; hezi -ZAVINÁČ- seznam.cz | 
+| Marie | Šimková | &nbsp; smarie -ZAVINÁČ- centrum.cz |
+| Michal | Timko | &nbsp; timko.michal -ZAVINÁČ- centrum.cz |
+| Jan | Vráblík | &nbsp; j.vrablik -ZAVINÁČ- seznam.cz |
+| Jaroslav | Kotowski | &nbsp; jaroslav.kotowski -ZAVINÁČ- gmail.com |
+| Josef | Moudřík | &nbsp; j.moudrik -ZAVINÁČ- gmail.com |
 
 
