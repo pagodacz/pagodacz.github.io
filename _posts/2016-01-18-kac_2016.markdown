@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turnaj o pohár Korejského velvyslance"
+title:  "Turnaj o pohár Korejského velvyslance 2016"
 date:   2016-01-18 19:46:42 +0100
 ---
 
