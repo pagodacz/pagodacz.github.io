@@ -5,4 +5,4 @@ date:   2017-01-04 13:04:42 +0100
 ---
 
 Tradiční **46. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **22.–23. dubna 2017**,
-v prostorách Hotelu Duo. Více informací naleznete na [Stránce Turnaje](http://kac.j2m.cz/index_cz.html).
+v prostorách Hotelu Duo. Více informací naleznete na [Stránce Turnaje](http://kac.pagoda.cz/index_cz.html).

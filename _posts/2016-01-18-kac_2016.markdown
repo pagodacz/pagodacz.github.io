@@ -5,4 +5,4 @@ date:   2016-01-18 19:46:42 +0100
 ---
 
 Tradiční **45. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **23.–24. dubna 2016**,
-v prostorách Hotelu Duo. Více informací naleznete na [Stránce Turnaje](http://kac.j2m.cz/index_cz.html).
+v prostorách Hotelu Duo. Více informací naleznete na [Stránce Turnaje](http://kac.pagoda.cz/index_cz.html).
