@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Turnaj o pohár Korejského velvyslance 2017"
-date:   2016-01-04 13:04:42 +0100
+date:   2017-01-04 13:04:42 +0100
 ---
 
 Tradiční **46. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **22.–23. dubna 2017**,
