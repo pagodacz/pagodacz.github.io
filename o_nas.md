@@ -1,19 +1,19 @@
 ---
 layout: page
-title: O sdružení
+title: O nás
 permalink: /o_nas/
 ---
 
-**Sdružení přijímá nové členy!**
+Máte zájem o **ukázku hry Go**, nebo **její výuku** v rámci firemní akce?
 
-Chcete pomoci s propagací hry Go? Napište nám e-mail:
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+Napište nám e-mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## Informace
 
-
-Občanské sdružení Pagoda, o.s. je nezisková organizace zaměřená na podporu a prezentaci deskové hry Go. Sdružení bylo založeno v létě 2007 a jeho členové se aktivně podílejí na organizaci turnajů a dalších akcí souvisejících s Go především v Praze a nejbližším okolí.
-
+Pagoda, z.s. je nezisková organizace zaměřená na podporu a prezentaci
+deskové hry Go. Sdružení bylo založeno v létě 2007 a jeho členové
+se aktivně podílejí na **propagaci Go**, **organizaci turnajů** a zastřešují
+další akce související s Go, především v Praze a nejbližším okolí.
 
 |Občanské sdružení Pagoda, o.s.
 |:--- | :---

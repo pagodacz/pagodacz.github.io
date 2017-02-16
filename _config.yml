@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pagoda, o.s.
+title: Pagoda, z.s.
 email: pagoda@pagoda.cz
 description: > # this means to ignore newlines until "baseurl:"
-    Občanské sdružení Pagoda je nezisková organizace zaměřená
+    Spolek Pagoda je nezisková organizace zaměřená
     na podporu a prezentaci deskové hry Go.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.pagoda.cz" # the base hostname & protocol for your site
