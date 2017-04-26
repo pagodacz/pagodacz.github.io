@@ -11,7 +11,7 @@ Fotografie z turnaje jsou k dispozici na [Stránce Turnaje](http://kac.pagoda.cz
 
 Reportáž z turnaje viz stránky [Gowebu](http://goweb.cz/2017/praha-korean-ambassador-cup/).
 
-#Zpráva
+# Zpráva
 
 Pražský mezinárodní turnaj v go patří mezi naše vrcholné goistické akce. Byl to již jeho 46. ročník a podesáté se konal s podporou korejského velvyslanectví v Praze jako Korean Ambassador Cup, kvalifikace českých hráčů na podzimní Korean Prime Minister Cup hraný v Koreji. 
 
