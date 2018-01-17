@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Turnaj o pohár Korejského velvyslance 2018"
+date:   2018-01-17 13:04:42 +0100
+---
+
+Tradiční **47. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **21.–22. dubna 2018**,
+v prostorách Hotelu Duo. Více informací naleznete na [Stránce Turnaje](http://kac.pagoda.cz/index_cz.html).
