@@ -4,7 +4,7 @@ title:  "Turnaj o pohár Korejského velvyslance 2018 &ndash; zpráva"
 date:   2018-04-25 10:34:42 +0100
 ---
 
-Spolek Pagoda organizoval ve dnech 21.–22. dubna 2017 **47. pražský Go Turnaj pod záštitou Korejského velvyslance** 
+Spolek Pagoda organizoval ve dnech 21.–22. dubna 2018 **47. pražský Go Turnaj pod záštitou Korejského velvyslance** 
 v prostorách Hotelu Duo.
 
 Výsledky turnaje jsou k dispozici na [databázi evropské Go federace](http://www.europeangodatabase.eu/EGD/Tournament_Card.php?&key=T180421B).
