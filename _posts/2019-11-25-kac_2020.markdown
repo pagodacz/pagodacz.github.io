@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Turnaj o pohár Korejského velvyslance 2020"
+date:   2019-11-25 12:04:42 +0100
+---
+
+Tradiční **49. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **25.–26. dubna 2020**,
+v prostorách Hotelu Duo. Více informací naleznete na [Oficiálním Webu Turnaje](http://kac.pagoda.cz/index_cz.html).
