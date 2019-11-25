@@ -15,7 +15,7 @@ deskové hry Go. Sdružení bylo založeno v létě 2007 a jeho členové
 se aktivně podílejí na **propagaci Go**, **organizaci turnajů** a zastřešují
 další akce související s Go, především v Praze a nejbližším okolí.
 
-|Občanské sdružení Pagoda, o.s.
+|Pagoda, z.s.
 |:--- | :---
 |Sídlo: | {{ site.adresa }}
 |IČO:   | {{ site.ico }}
