@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Turnaj o pohár Korejského velvyslance 2021 - Online"
+date:   2021-03-01 15:04:42 +0100
+---
+
+
+Tradiční **49. pražský Go Turnaj pod záštitou Korejského velvyslance** se koná **23.–25. dubna 2021**,
+z důvodů koronavirové situace letos poprvé ONLINE. 
+Více informací naleznete na [Oficiálním Webu Turnaje](http://kac.pagoda.cz/index_cz.html).
+
