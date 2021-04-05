@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Turnaj o pohár Korejského velvyslance 2020 - Zrušen"
+title:  "Turnaj o pohár Korejského velvyslance 2020 &ndash; Zrušen"
 date:   2020-03-15 12:04:42 +0100
 ---
 
